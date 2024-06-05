@@ -1,0 +1,25 @@
+{
+  "log_level": "debug",
+  "ado": {
+    "organization": "jerry0708",
+    "project": "Github Sync Test",
+    "wit": "Task",
+    "states": {
+      "new": "New",
+      "closed": "Closed",
+      "reopened": "New",
+      "deleted": "Removed",
+      "active": "Active"
+    },
+    "bypassRules": true,
+    "autoCreate": true,
+    "assignedTo": "test@flexshape.dk",
+    "areaPath": "Github Sync Test",
+    "iterationPath": "Github Sync Test\\Sprint 1",
+    "mappings": {
+      "handles": {
+        "flexshape-jerry": "jerry@flexshape.dk"
+      }
+    }
+  }
+}
